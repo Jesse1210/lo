@@ -9,4 +9,4 @@ def gen_conditions():
     def distribute(n, bins, n_max):
     """
     Distributes the integer `n` into `bins` number of terms that sum to n.
-  go into
+  go into do it
